@@ -1,0 +1,7 @@
+build/
+dist/
+scores.txt
+.idea/
+__pycache__/
+*.spec
+*.pyc

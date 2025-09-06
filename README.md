@@ -9,4 +9,4 @@ The program was written in Python using the [Pygame](https://www.pygame.org/news
 ---
 ## Gameplay
 
-![](https://www.youtube.com/embed/hiW63e5ppnY?si=I3awlQV4nQoDLEfZ)
+[![Watch the gameplay](https://img.youtube.com/vi/hiW63e5ppnY/0.jpg)](https://www.youtube.com/watch?v=hiW63e5ppnY)

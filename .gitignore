@@ -2,6 +2,7 @@ build/
 dist/
 scores.txt
 .idea/
+.venv/
 __pycache__/
 *.spec
 *.pyc
